@@ -7,7 +7,7 @@ This project allows users to send anonymous messages through a simple web page. 
 ## 📖 Description
 The Message Page is a lightweight HTML/CSS/JavaScript application that:
 - Provides a simple form for users to submit a **reason** and a **message**.
-- Sends the submitted data to a Telegram channel via a bot.
+- Sends the submitted data to a Telegram channel via a telegram bot (https server request).
 - Ensures anonymity by not collecting any personal information. (No caches
 
 ---
